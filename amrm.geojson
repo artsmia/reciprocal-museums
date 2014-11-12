@@ -1,0 +1,229 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6230535388936,
+          41.8796126
+        ]
+      },
+      "properties": {
+        "name": "The Art Institute of Chicago",
+        "address": "The Art Institute of Chicago, 111, South Michigan Avenue, Loop, Chicago, Cook County, Illinois, 60603, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4972441922397,
+          39.11397405
+        ]
+      },
+      "properties": {
+        "name": "Cincinnati Art Museum",
+        "address": "Cincinnati Art Museum, Art Museum Drive, Peebles Corner, Mount Adams, Cincinnati, Hamilton County, Ohio, 45202, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.611663,
+          41.5093929
+        ]
+      },
+      "properties": {
+        "name": "Cleveland Museum of Art",
+        "address": "Cleveland Museum of Art, Wade Oval Drive, University Circle, Cleveland, Cuyahoga County, Ohio, 44106, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8014820110596,
+          32.78778195
+        ]
+      },
+      "properties": {
+        "name": "Dallas Museum of Art",
+        "address": "Dallas Museum of Art, 1717, North Harwood Street, Dallas, Dallas County, Texas, 75201, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.064520622536,
+          42.3594973
+        ]
+      },
+      "properties": {
+        "name": "Detroit Institute of Arts",
+        "address": "Detroit Institute of Arts, 5200, Woodward Avenue, Detroit, Wayne County, Michigan, 48202, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3860964575201,
+          33.78978225
+        ]
+      },
+      "properties": {
+        "name": "High Museum of Art",
+        "address": "High Museum of Art, Arts Center Way Northeast, Atlanta, Fulton County, Georgia, 30309, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3591624,
+          34.0633833
+        ]
+      },
+      "properties": {
+        "name": "Los Angeles County Museum of Art",
+        "address": "Los Angeles County Museum of Art, Wilshire Boulevard, The Village Green, Los Angeles, Los Angeles County, California, 90036, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2741862651567,
+          44.95858065
+        ]
+      },
+      "properties": {
+        "name": "Minneapolis Institute of Arts",
+        "address": "Minneapolis Institute of Arts, East 24th Street, Whittier, Minneapolis, Hennepin County, Minnesota, 55404, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0942487,
+          42.3396486
+        ]
+      },
+      "properties": {
+        "name": "Museum of Fine Arts",
+        "address": "Museum of Fine Arts, Fenway, Roxbury Crossing, Fenway, Boston, Suffolk County, Massachusetts, 02115, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3904946,
+          29.7255071
+        ]
+      },
+      "properties": {
+        "name": "The Museum of Fine Arts",
+        "address": "The Museum of Fine Arts, Main Street, Houston, Harris County, Texas, 77006, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.580953484864,
+          39.044963
+        ]
+      },
+      "properties": {
+        "name": "Nelson-Atkins Museum of Art",
+        "address": "Nelson-Atkins Museum of Art, Oak Street, Kansas City, Jackson County, Missouri, 64113, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1815126731516,
+          39.96556385
+        ]
+      },
+      "properties": {
+        "name": "Philadelphia Museum of Art",
+        "address": "Philadelphia Museum of Art, Art Museum Drive, Fairmount, Philadelphia, Philadelphia County, Pennsylvania, 19130, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2946029,
+          38.6394396
+        ]
+      },
+      "properties": {
+        "name": "St. Louis Art Museum",
+        "address": "St. Louis Art Museum, Fine Arts Drive, St. Louis, City of St. Louis, Missouri, 63110, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5596779208855,
+          41.6585283
+        ]
+      },
+      "properties": {
+        "name": "Toledo Museum of Art",
+        "address": "Toledo Museum of Art, West Grove Place, Roosevelt, Toledo, Lucas County, Ohio, 43624; 43607, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.120546334394,
+          49.28286045
+        ]
+      },
+      "properties": {
+        "name": "Vancouver Art Gallery",
+        "address": "Vancouver Art Gallery, 750, Hornby Street, Yaletown, Vancouver, Greater Vancouver Regional District, British Columbia, V6Z 1X9, Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2887597130053,
+          44.96799295
+        ]
+      },
+      "properties": {
+        "name": "Walker Art Center",
+        "address": "Walker Art Center, 1750, Hennepin Avenue South, Lowry Hill East, Minneapolis, Hennepin County, Minnesota, 55408; 55403, United States of America"
+      }
+    }
+  ]
+}
