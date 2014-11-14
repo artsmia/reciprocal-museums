@@ -17,17 +17,24 @@ amrm-members.txt:
 	j AMRM_Program\ Info\ Update_09.19.14_1.xls | csvcut -c1 | tail -n+4 \
 	| grep -v '""' | sed 's/(as.*)//' > $@
 
-# Take the names from above and geocode each of them into a geojson 'Feature'.
-# Wrap those features in a 'FeatureCollection' and we have geojson.
+# Take the museums from a line-delimited text file `members` and geocode each
+# of them into a 'Feature'.  Wrap those features in a 'FeatureCollection' and
+# we have geojson.
 #
 # geocode: `gem install geocode`
 # sponge: `<package manager> install moreutils`
 # jq: (above)
-amrm.geojson: amrm-members.txt
-	@cat $< | while read museum; do \
+geocode-json:
+	cat $(members) | while read museum; do \
 		geocode -j -s nominatim "$$museum" | jq -c '.[0] | { \
 			type: "Feature", \
 			geometry: {type: "Point", coordinates: [.lon, .lat | tonumber]}, \
 			properties: {name: .address.museum, address: .display_name} \
 		}'; \
-	done | sponge | jq -s '{type: "FeatureCollection", features: .}' > amrm.geojson
+	done | sponge | jq -s '{type: "FeatureCollection", features: .}' > $$(basename $(members) -members.txt).geojson; \
+
+amrm.geojson:
+	make geocode-json members=amrm-members.txt
+
+wrp.geojson:
+	make geocode-json members=wrp-members.txt

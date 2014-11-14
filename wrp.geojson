@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3474902,
+          48.4220673
+        ]
+      },
+      "properties": {
+        "name": null,
+        "address": "Art Gallery of Greater Victoria, Moss Street, Rockland, Victoria, Capital Regional District, British Columbia, V8S 3S3, Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.826085570929,
+          38.8458209
+        ]
+      },
+      "properties": {
+        "name": "Colorado Springs Fine Arts Center",
+        "address": "Colorado Springs Fine Arts Center, 30, West Dale Street, Colorado Springs, El Paso County, Colorado, 80903, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8014820110596,
+          32.78778195
+        ]
+      },
+      "properties": {
+        "name": "Dallas Museum of Art",
+        "address": "Dallas Museum of Art, 1717, North Harwood Street, Dallas, Dallas County, Texas, 75201, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9897571,
+          39.7374814
+        ]
+      },
+      "properties": {
+        "name": "Denver Art Museum",
+        "address": "Denver Art Museum, Bannock Street, Civic Center, Denver, Denver County, Colorado, 80203, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.468640479833,
+          37.7715266
+        ]
+      },
+      "properties": {
+        "name": "De Young Museum",
+        "address": "De Young Museum, South Tea Garden Drive, Inner Sunset, San Francisco, San Francisco City and County, California, 94143, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.500954900565,
+          37.78455785
+        ]
+      },
+      "properties": {
+        "name": "Palace of the Legion of Honor",
+        "address": "Palace of the Legion of Honor, El Camino del Mar, Seacliff, San Francisco, San Francisco City and County, California, 94121, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0197733,
+          36.1755909
+        ]
+      },
+      "properties": {
+        "name": null,
+        "address": "Gilcrease Museum Road, Tulsa, Osage County, Oklahoma, 74127, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.443601513388,
+          34.0592806
+        ]
+      },
+      "properties": {
+        "name": "Hammer Museum",
+        "address": "Hammer Museum, 10899, Wilshire Boulevard, Brentwood, Los Angeles, Los Angeles County, California, 90024, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.848542161258,
+          21.3041343
+        ]
+      },
+      "properties": {
+        "name": "Honolulu Museum of Art",
+        "address": "Honolulu Museum of Art, Kinau Street, Downtown, Makiki Kai, Honolulu, Oahu County, Hawaii, 96814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23859735,
+          34.04965915
+        ]
+      },
+      "properties": {
+        "name": "Japanese American National Museum",
+        "address": "Japanese American National Museum, Alameda Street, Little Tokyo Historic District, Los Angeles, Los Angeles County, California, 90013, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2741862651567,
+          44.95858065
+        ]
+      },
+      "properties": {
+        "name": "Minneapolis Institute of Arts",
+        "address": "Minneapolis Institute of Arts, East 24th Street, Whittier, Minneapolis, Hennepin County, Minnesota, 55404, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6211233469288,
+          41.89722165
+        ]
+      },
+      "properties": {
+        "name": "Museum of Contemporary Art",
+        "address": "Museum of Contemporary Art, 220, East Chicago Avenue, Magnificent Mile, Chicago, Cook County, Illinois, 60611, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3904946,
+          29.7255071
+        ]
+      },
+      "properties": {
+        "name": "The Museum of Fine Arts",
+        "address": "The Museum of Fine Arts, Main Street, Houston, Harris County, Texas, 77006, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.580953484864,
+          39.044963
+        ]
+      },
+      "properties": {
+        "name": "Nelson-Atkins Museum of Art",
+        "address": "Nelson-Atkins Museum of Art, Oak Street, Kansas City, Jackson County, Missouri, 64113, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0932384,
+          29.9864419
+        ]
+      },
+      "properties": {
+        "name": "New Orleans Museum of Art",
+        "address": "New Orleans Museum of Art, Collins Diboll Circle, French Quarter, New Orleans, Orleans Parish, Louisiana, 70119, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0726266,
+          33.466712
+        ]
+      },
+      "properties": {
+        "name": "Phoenix Art Museum",
+        "address": "Phoenix Art Museum, 1625, North Central Avenue, Encanto, Phoenix, Maricopa County, Arizona, 85004, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.683570312081,
+          45.5162916
+        ]
+      },
+      "properties": {
+        "name": "Portland Art Museum",
+        "address": "Portland Art Museum, Southwest Madison Street, University District, Portland, Multnomah County, Oregon, 97205, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1504503,
+          32.7321695
+        ]
+      },
+      "properties": {
+        "name": "San Diego Museum of Art",
+        "address": "San Diego Museum of Art, Old Globe Way, Hillcrest, San Diego, San Diego County, California, 92101, United States of America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3386983,
+          47.6077017
+        ]
+      },
+      "properties": {
+        "name": "Seattle Art Museum",
+        "address": "Seattle Art Museum, 1301, 2nd Avenue, Belltown, Seattle, King County, Washington, 98121, United States of America"
+      }
+    }
+  ]
+}
