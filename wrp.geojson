@@ -90,13 +90,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.0197733,
-          36.1755909
+          -96.019828,
+          36.173236
         ]
       },
       "properties": {
-        "name": null,
-        "address": "Gilcrease Museum Road, Tulsa, Osage County, Oklahoma, 74127, United States of America"
+        "name": "Gilcrease Museum",
+        "description": "1400 Gilcrease Museum Road\nTulsa, OK 74127\n(918) 596-2700\ngilcrease.org (http://gilcrease.org)"
       }
     },
     {
